@@ -1,0 +1,21 @@
+{
+  "name": "web-stuff",
+  "version": "0.0.1",
+  "description": "Just doing some JS stuff",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleffert/web-stuff.git"
+  },
+  "author": "Trevor Leffert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tleffert/web-stuff/issues"
+  },
+  "homepage": "https://github.com/tleffert/web-stuff#readme"
+}
